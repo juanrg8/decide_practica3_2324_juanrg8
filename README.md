@@ -469,7 +469,7 @@ El archivo "populate.json" se ha generado manualmente con ayuda de la documentac
 [el siguiente portal web](https://docs.djangoproject.com/en/4.1/howto/initial-data/).
 
 Versiones actuales
---------------------
+---------------------
 
 En las ultimas actualizaciones se han modificado las versiones usadas por la aplicación Decide. Las 
 versiones usadas actualmente se corresponden a las siguientes:
