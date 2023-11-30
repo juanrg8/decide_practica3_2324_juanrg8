@@ -1,4 +1,5 @@
 [![Python application](https://github.com/juanrg8/decide_practica3_2324_juanrg8/actions/workflows/django.yml/badge.svg)](https://github.com/juanrg8/decide_practica3_2324_juanrg8/actions/workflows/django.yml)
+
 Plataforma voto electrónico educativa
 =====================================
 
